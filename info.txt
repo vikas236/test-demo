@@ -1,0 +1,3 @@
+Name = sam
+Registration number : 12345
+Address - #1234, East Main Street, stanford
